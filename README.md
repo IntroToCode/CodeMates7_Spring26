@@ -2,7 +2,7 @@
 
 - Breakfast
 - Lunch: 
-- [Dinner](dinner/readme.me) 
+- [Dinner](dinner/README.md) 
 
 _Notes_
 __
