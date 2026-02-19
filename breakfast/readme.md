@@ -16,29 +16,22 @@ Shiozake is a staple of the Japanese breakfast table, made by salt-curing salmon
 | Tags | gluten-free, paleo, keto, Japanese, breakfast |
 
 ### Ingredients:
-- [ ] Two 4-ounce skin-on fillets of salmon, preferably cut from the belly
 - [ ] 1 tablespoon (15 ml) sake (optional)
-- [ ] 2 teaspoons Diamond Crystal kosher salt (about 1/4 ounce; 7g)
+- [ ] Two 4-ounce skin-on fillets of salmon, preferably cut from the belly
+- [ ] 2 teaspoons Diamond Crystal kosher salt (about 1/4 ounce; 7 g); see note
 
 ### Steps for preparation:
 
-1. If using sake, drizzle the sake evenly over both sides of the salmon fillets and let sit briefly to help neutralize any fishiness.
-2. Season the salmon fillets evenly on all sides with the kosher salt. The salt amount is roughly 3% of the weight of the salmon — you can adjust up or down to taste, but keep in mind the salmon is meant to be quite salty.
-3. Line the bottom of a container or plate with paper towels. Place the salted salmon fillets skin-side up on the paper towels. Cover and refrigerate for at least 8 hours or overnight. The paper towels will absorb moisture drawn out by the salt, curing and drying the fish to achieve the characteristic salinity and texture.
-4. When ready to cook, adjust an oven rack to the top position and preheat the broiler. Line a rimmed baking sheet with aluminum foil.
-5. Remove the salmon from the refrigerator and place the fillets skin-side up on the prepared baking sheet.
-6. Broil the salmon until the skin is nicely colored and beginning to crisp, about 3 to 5 minutes.
-7. Carefully flip the salmon fillets over and continue broiling until the flesh side is nicely colored and the fat is sizzling, about 3 minutes longer. The salmon should be cooked well done — it is more important to get good color on the fillets than to worry about overcooking them.
-8. Serve immediately alongside steamed Japanese short-grain rice, miso soup, and pickled vegetables for a traditional Japanese breakfast.
+1. Sprinkle sake, if using, all over salmon fillets. Pat dry with paper towels. Sprinkle salt evenly all over both fillets. Press salt into the flesh and skin to ensure it adheres well.
+2. Place salted salmon fillets in a glass container, such as a small glass baking dish, lined with paper towels. Cover container and refrigerate overnight, or up to 36 hours. Every 12 hours, replace paper towels and flip fillets over.
+3. When ready to cook, place oven rack in top position and preheat broiler. Place salmon fillets on a foil-lined rimmed baking sheet. Broil salmon until it has exuded some fat and started to brown, about 3 minutes. (The timing will vary depending on broiler strength and distance from the broiler element.)
+4. Turn salmon fillets over and cook until salmon is nicely colored and fat is spitting, about 3 minutes longer (see note). Serve immediately.
 
 ### Notes:
 
-- **Salt:** The recipe uses Diamond Crystal kosher salt. If using Morton's kosher salt or table salt, use about half the volume since they are denser. The goal is approximately 7g of salt total.
-- **Sake:** Using sake adds subtle flavor and helps neutralize fishiness, but it is entirely optional. The recipe works well without it.
-- **Salmon cut:** Belly-cut fillets are preferred for their higher fat content, which renders nicely under the broiler and results in the fillets sizzling in their own fat.
-- **Doneness:** Unlike many Western preparations, cured Japanese salmon is intentionally cooked to well done for a drier, flakier texture.
-- **Storage:** Cured (uncooked) fillets can be wrapped individually and frozen for up to one month. Cooked leftovers keep refrigerated for 2–3 days.
-- **Serving ideas:** Beyond breakfast, shiozake makes an excellent filling for onigiri (rice balls), a protein for bento boxes, or a topping for ochazuke (tea over rice).
+- **Salt:** Using sake lends some flavor benefits, but is entirely optional.
+- **Salt Amount:** The amount of salt recommended in this recipe is about 3% of the weight of the salmon fillets. You can use more or less salt to your taste, but keep in mind that the salmon is meant to be very salty.
+- **Others:** Cured Japanese salmon is meant to be cooked thoroughly (well done); it is more important to get color on the fillets than to worry about overcooking them.
 
 ### Author(s):
 Sho Spaeth, Serious Eats
