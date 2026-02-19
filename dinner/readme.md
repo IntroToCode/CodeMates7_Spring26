@@ -62,4 +62,4 @@
 25g Carbs
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):Steven Dahl
+### Author(s):Steven Dahl, Joe
