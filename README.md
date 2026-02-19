@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
+- Breakfast
 - Lunch: 
-- Dinner: 
+- [Dinner](dinner/readme.me) 
 
 _Notes_
 __
