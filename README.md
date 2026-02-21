@@ -2,7 +2,7 @@
 
 - Breakfast: 
 - Lunch: 
-- Dinner: Add the dinner recipe and pulled request 
+- Dinner: 
 
 _Notes_
 __
