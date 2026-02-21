@@ -13,9 +13,9 @@
 | Prep Time | 30 minutes |
 | Cook Time | 2 hours 30 minutes |
 | Total Time | 3 hours |
-| Servings | e.g. 4 |
+| Servings | 4 |
 | Difficulty | Medium |
-| Tags | e.g. quick, make-ahead, protien |
+| Tags | beef,, make-ahead, protein |
 
 <!-- Note the fields in the markdown table -->
 
@@ -28,8 +28,8 @@
 - [ ] 1 teaspoon dried parsley
 - [ ] ½ teaspoon ground black pepper
 - [ ] 3 large potatoes, peeled and cubed
-- [ ] 4 carrots, cut into 1 inch pieces
-- [ ] 4 stalks celery, cut into 1 inch pieces
+- [ ] 4 carrots, cut into 1-inch pieces
+- [ ] 4 stalks of celery, cut into 1-inch pieces
 - [ ] 1 large onion, chopped
 - [ ] 2 teaspoons cornstarch
 - [ ] 2 teaspoons cold water
@@ -39,7 +39,7 @@
 ### Steps for preparation:
 
 1. Step one: Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned.
-2. Step two: Dissolve bouillon in 4 cups water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.
+2. Step two: Dissolve bouillon in 4 cups of water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce the heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.
 3. Step three: Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
@@ -50,4 +50,4 @@
 25g Carbs
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):Steven Dahl, Joe
+### Author(s): Steven Dahl, Joe
