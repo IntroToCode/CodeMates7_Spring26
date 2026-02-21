@@ -15,7 +15,7 @@
 | Total Time | 3 hours |
 | Servings | 4 |
 | Difficulty | Medium |
-| Tags | beef,, make-ahead, protein |
+| Tags | beef, make-ahead, protein |
 
 <!-- Note the fields in the markdown table -->
 
