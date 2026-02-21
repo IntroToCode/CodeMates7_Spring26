@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast
+- Breakfast:
 - Lunch: 
-- [Dinner](dinner/readme.md) 
+- Dinner: [Homemade Beef Stew](dinner/readme.md)
 
 _Notes_
 __
