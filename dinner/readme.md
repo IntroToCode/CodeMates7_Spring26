@@ -20,19 +20,19 @@
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] 3 tablespoons vegetable oil
-- [ ] 2 pounds cubed beef stew meat
-- [ ] 4 cubes beef bouillon, crumbled
-- [ ] 4 cups water
-- [ ] 1 teaspoon dried rosemary
-- [ ] 1 teaspoon dried parsley
-- [ ] ½ teaspoon ground black pepper
-- [ ] 3 large potatoes, peeled and cubed
-- [ ] 4 carrots, cut into 1-inch pieces
-- [ ] 4 stalks of celery, cut into 1-inch pieces
-- [ ] 1 large onion, chopped
-- [ ] 2 teaspoons cornstarch
-- [ ] 2 teaspoons cold water
+- [ ] 6 tablespoons vegetable oil
+- [ ] 4 pounds cubed beef stew meat
+- [ ] 8 cubes beef bouillon, crumbled
+- [ ] 8 cups water
+- [ ] 2 teaspoon dried rosemary
+- [ ] 2 teaspoon dried parsley
+- [ ] 1 teaspoon ground black pepper
+- [ ] 6 large potatoes, peeled and cubed
+- [ ] 8 carrots, cut into 1-inch pieces
+- [ ] 8 stalks of celery, cut into 1-inch pieces
+- [ ] 2 large onion, chopped
+- [ ] 4 teaspoons cornstarch
+- [ ] 4 teaspoons cold water
       
 <!-- List every ingredient -->
 
