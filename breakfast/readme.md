@@ -1,3 +1,4 @@
+
 # Shiozake (Japanese-Style Salted Salmon)
 
 ## Description
@@ -17,7 +18,7 @@ Shiozake is a staple of the Japanese breakfast table, made by salt-curing salmon
 
 ### Ingredients:
 - [ ] 1 tablespoon (15 ml) sake (optional)
-- [ ] Two 4-ounce skin-on fillets of salmon, preferably cut from the belly
+- [ ] 2 x 4-ounce skin-on fillets of salmon, preferably cut from the belly
 - [ ] 2 teaspoons Diamond Crystal kosher salt (about 1/4 ounce; 7 g); see note
 
 ### Steps for preparation:

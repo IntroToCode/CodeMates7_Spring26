@@ -2,7 +2,7 @@
 
 - Breakfast: 
 - Lunch: 
-- Dinner: Add the dinner recipe and pulled request 
-(dinner/readme.md)
+- Dinner: 
+
 _Notes_
 __
