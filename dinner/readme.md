@@ -13,7 +13,7 @@
 | Prep Time | 30 minutes |
 | Cook Time | 2 hours 30 minutes |
 | Total Time | 3 hours |
-| Servings | 4 |
+| Servings | 8 |
 | Difficulty | Medium |
 | Tags | beef, make-ahead, protein |
 
