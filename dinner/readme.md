@@ -60,3 +60,5 @@ Steven Dahl, Joe
 
 #### Transcriber(s):
 Asun Oka
+
+Raymond Spencer
