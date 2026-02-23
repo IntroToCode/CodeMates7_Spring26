@@ -49,3 +49,5 @@ Namiko Hirasawa Chen, justonecookbook
 
 #### Transcriber(s):
 Asun Oka
+
+Raymond Spencer
