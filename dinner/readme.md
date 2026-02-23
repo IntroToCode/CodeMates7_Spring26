@@ -55,4 +55,8 @@
 For a non-spicy version, do not add dried chilli flakes
 Pairs well with a Limoncello!
 
-### Author(s): Steven Dahl, Joe
+### Author(s): 
+Steven Dahl, Joe
+
+#### Transcriber(s):
+Asun Oka
