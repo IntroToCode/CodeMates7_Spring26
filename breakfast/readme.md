@@ -40,5 +40,5 @@ Sho Spaeth, Serious Eats
 
 #### Transcriber(s):
 Asun Oka
-
 Raymond Spencer
+Alan Tsai
