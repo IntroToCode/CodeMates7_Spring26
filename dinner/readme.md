@@ -49,5 +49,6 @@
 21g Fat
 25g Carbs
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+Pairs well with an Old Fashioned cocktail!
 
 ### Author(s): Steven Dahl, Joe
