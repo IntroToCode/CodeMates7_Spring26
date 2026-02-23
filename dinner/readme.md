@@ -1,6 +1,6 @@
 # Homemade Beef Stew
 
-## A homemade beef stew recipe for the stovetop. This traditional stew is good eaten from a bowl or poured over biscuits. Substitute lamb and voila!... Irish stew! If thicker stew is desired, add more cornstarch and/or take the cover off for the last 15 to 20 minutes. The longer this simmers, the better! Vary the herbs to your taste.
+## A homemade beef stew recipe for the stovetop. This traditional stew is good eaten from a bowl or poured over biscuits. Substitute lamb and voila!... Irish stew! If a thicker stew is desired, add more cornstarch and/or take the cover off for the last 15 to 20 minutes. The longer this simmers, the better! Vary the herbs to your taste.
 
 
 
@@ -59,6 +59,7 @@ Pairs well with a Limoncello!
 Steven Dahl, Joe
 
 #### Transcriber(s):
-Asun Oka
+Asun Oka  
+Raymond Spencer  
+Alan Tsai  
 
-Raymond Spencer
