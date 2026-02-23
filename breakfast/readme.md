@@ -37,3 +37,6 @@ Shiozake is a staple of the Japanese breakfast table, made by salt-curing salmon
 
 ### Author(s):
 Sho Spaeth, Serious Eats
+
+#### Transcriber(s):
+Asun Oka
