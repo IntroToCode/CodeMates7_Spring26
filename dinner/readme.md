@@ -15,6 +15,7 @@
 | Total Time | 3 hours |
 | Servings | 8 |
 | Difficulty | Medium |
+| Spiciness | 🌶️ |
 | Tags | beef, make-ahead, protein |
 
 <!-- Note the fields in the markdown table -->
