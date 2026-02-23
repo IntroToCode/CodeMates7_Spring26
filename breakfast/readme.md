@@ -14,6 +14,7 @@ Shiozake is a staple of the Japanese breakfast table, made by salt-curing salmon
 | Total Time | 8 hours 10 minutes (includes overnight curing) |
 | Servings | 2 |
 | Difficulty | Easy |
+| Spiciness | |
 | Tags | gluten-free, paleo, keto, Japanese, breakfast |
 
 ### Ingredients:

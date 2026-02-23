@@ -15,6 +15,7 @@
 | Total Time | 3 hours |
 | Servings | 8 |
 | Difficulty | Medium |
+| Spiciness | 🌶️ |
 | Tags | beef, make-ahead, protein |
 
 <!-- Note the fields in the markdown table -->
@@ -26,6 +27,7 @@
 - [ ] 8 cups water
 - [ ] 2 teaspoon dried rosemary
 - [ ] 2 teaspoon dried parsley
+- [ ] 2 teaspoon dried chilli flakes
 - [ ] 1 teaspoon ground black pepper
 - [ ] 6 large potatoes, peeled and cubed
 - [ ] 8 carrots, cut into 1-inch pieces
@@ -39,7 +41,7 @@
 ### Steps for preparation:
 
 1. Step one: Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned.
-2. Step two: Dissolve bouillon in 4 cups of water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce the heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.
+2. Step two: Dissolve bouillon in 4 cups of water and pour into the pot; stir in rosemary, parsley, chilli flakes, and pepper. Bring to a boil; reduce the heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.
 3. Step three: Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
@@ -50,6 +52,7 @@
 25g Carbs
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
+For a non-spicy version, do not add dried chilli flakes
 Pairs well with a Limoncello!
 
 ### Author(s): Steven Dahl, Joe

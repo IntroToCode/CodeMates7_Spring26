@@ -13,6 +13,7 @@ Onigiri is a traditional Japanese rice ball, typically shaped into triangles or 
 | Total Time | 1 hour |
 | Servings | 9 |
 | Difficulty | Easy |
+| Spiciness | |
 | Tags | quick, make-ahead, portable, Lunch, Japanese, vegetarian|
 
 ### Ingredients:
