@@ -48,6 +48,7 @@ For the Onigiri
 Namiko Hirasawa Chen, justonecookbook
 
 #### Transcriber(s):
-Asun Oka
+Asun Oka  
+Raymond Spencer  
+Alan Tsai  
 
-Raymond Spencer
