@@ -50,4 +50,6 @@
 25g Carbs
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
+Pairs well with a Limoncello!
+
 ### Author(s): Steven Dahl, Joe
