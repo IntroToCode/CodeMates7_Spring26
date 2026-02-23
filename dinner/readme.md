@@ -53,5 +53,6 @@
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 For a non-spicy version, do not add dried chilli flakes
+Pairs well with a Limoncello!
 
 ### Author(s): Steven Dahl, Joe
