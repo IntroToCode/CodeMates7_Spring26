@@ -2,7 +2,7 @@
 
 ## Description
 
-Onigiri is a traditional Japanese rice ball, typically shaped into triangles or cylinders and wrapped in nori seaweed, that originated as a potable meal for travelers. What makes it special is its versatility and status as a comfort food that can be filled with anyting from salted plum to grilled salmon.
+Onigiri is a traditional Japanese rice ball, typically shaped into triangles or cylinders and wrapped in nori seaweed, that originated as a potable meal for travelers. What makes it special is its versatility and status as a comfort food that can be filled with anything from salted plum to grilled salmon.
 
 ## Stats
 
