@@ -16,6 +16,7 @@ A homemade beef stew recipe for the stovetop. This traditional stew is good eate
 | Total Time | 3 hours |
 | Servings | 8 |
 | Difficulty | Medium |
+| Spiciness | 🌶️ |
 | Tags | beef, make-ahead, protein |
 
 <!-- Note the fields in the markdown table -->
@@ -27,6 +28,7 @@ A homemade beef stew recipe for the stovetop. This traditional stew is good eate
 - [ ] 8 cups water
 - [ ] 2 teaspoon dried rosemary
 - [ ] 2 teaspoon dried parsley
+- [ ] 2 teaspoon dried chilli flakes
 - [ ] 1 teaspoon ground black pepper
 - [ ] 6 large potatoes, peeled and cubed
 - [ ] 8 carrots, cut into 1-inch pieces
@@ -50,5 +52,8 @@ A homemade beef stew recipe for the stovetop. This traditional stew is good eate
 21g Fat
 25g Carbs
 27g Protein<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+
+For a non-spicy version, do not add dried chilli flakes
+Pairs well with a Limoncello!
 
 ### Author(s): Steven Dahl, Joe
