@@ -56,4 +56,11 @@ A homemade beef stew recipe for the stovetop. This traditional stew is good eate
 For a non-spicy version, do not add dried chilli flakes
 Pairs well with a Limoncello!
 
-### Author(s): Steven Dahl, Joe
+### Author(s): 
+Steven Dahl, Joe
+
+#### Transcriber(s):
+Asun Oka  
+Raymond Spencer  
+Alan Tsai  
+Sunny Hsu

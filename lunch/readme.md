@@ -46,3 +46,10 @@ For the Onigiri
 
 ### Author(s):
 Namiko Hirasawa Chen, justonecookbook
+
+#### Transcriber(s):
+Asun Oka  
+Raymond Spencer  
+Alan Tsai  
+Sunny Hsu
+
