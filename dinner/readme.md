@@ -1,6 +1,7 @@
 # Homemade Beef Stew
 
-## A homemade beef stew recipe for the stovetop. This traditional stew is good eaten from a bowl or poured over biscuits. Substitute lamb and voila!... Irish stew! If thicker stew is desired, add more cornstarch and/or take the cover off for the last 15 to 20 minutes. The longer this simmers, the better! Vary the herbs to your taste.
+## Description
+A homemade beef stew recipe for the stovetop. This traditional stew is good eaten from a bowl or poured over biscuits. Substitute lamb and voila!... Irish stew! If thicker stew is desired, add more cornstarch and/or take the cover off for the last 15 to 20 minutes. The longer this simmers, the better! Vary the herbs to your taste.
 
 
 
@@ -38,9 +39,9 @@
 
 ### Steps for preparation:
 
-1. Step one: Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned.
-2. Step two: Dissolve bouillon in 4 cups of water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce the heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.
-3. Step three: Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour.
+1. Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned.
+2. Dissolve bouillon in 4 cups of water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce the heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.
+3. Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
